@@ -1,2 +1,2 @@
 # jsGame
-maded a game using js html css 
+made a game by using js html css 
